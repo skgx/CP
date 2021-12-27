@@ -22,6 +22,7 @@ void solve()
     // 	size--;
     // }
     temp=temp*arr[n-2];
+    //
 
     cout<<temp<<endl;
 }
