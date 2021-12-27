@@ -1,29 +1,3 @@
-
-Skip to content
-All gists
-Back to GitHub
-@skgx
-@Yousha
-Yousha/.gitignore
-Last active 21 days ago • Report abuse
-
-41
-
-    2
-
-Code
-Revisions 4
-Stars 41
-Forks 2
-.gitignore for C/C++ developers.
-.gitignore
-##### Windows
-# Windows thumbnail cache files
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
-
 # Dump file
 *.stackdump
 
