@@ -1,6 +1,6 @@
 # Dump file
 *.stackdump
-
+*.in
 # Folder config file
 [Dd]esktop.ini
 
