@@ -10,8 +10,6 @@ void solve()
     cin>>n;
     ll val=0;
     
-    // if(n==3)
-    // 	cout<<10<<endl;
     if(n>=3){
     	val=pow(3,(n-3))*8*(n-2);
     	val=val+val/4;
