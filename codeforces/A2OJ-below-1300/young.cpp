@@ -7,9 +7,9 @@ using namespace std;
 int main()
 {
   ios::sync_with_stdio(false);cin.tie(0);cout.tie(0);
-  int t=1;
+  ll t=1;
   cin >> t;
-  int p,q,r;
+  ll p,q,r;
   cin>>p>>q>>r;
   t--;
   while (t--)
