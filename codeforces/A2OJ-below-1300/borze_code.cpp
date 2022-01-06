@@ -23,6 +23,8 @@ int main()
         }
         else if(s[i]=='.')
         as+='0';
+
+        cout<<"saurabh";
   }
 
   cout<<as<<endl;
