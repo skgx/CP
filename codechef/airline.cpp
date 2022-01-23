@@ -4,8 +4,11 @@
 #define all(x) x.begin(), x.end()
 using namespace std;
 
+
 void solve()
 {
+
+  
     int a,b,c,d,e;
     cin>>a>>b>>c>>d>>e;
     if((a+b)<=d && c<=e)
